@@ -23,6 +23,12 @@ const Navigation = () => {
             <li>
                 <Link href="/blog">Blog</Link>
             </li>
+            <li>
+                <Link href="/clientcomp">clientcomp</Link>
+            </li>
+            <li>
+                <Link href="/servercomp">server comp</Link>
+            </li>
         </ul>
     </nav>
   </header>
